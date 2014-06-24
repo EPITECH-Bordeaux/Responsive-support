@@ -1,0 +1,160 @@
+/*
+** RESPONSIVE STYLESHEET
+** APPLE DEVICES SUPPORT
+*/
+
+/**********************************************************************/
+/*
+** ACTUAL IPHONES
+*/
+
+/* iPhone 5 in portrait & landscape */
+@media only screen and(min-width : 320px) and (max-width : 568px) {
+
+/* Your styles here */
+
+}
+
+/* iPhone 5 in landscape */
+@media only screen and (min-width : 320px) and (max-width : 568px) and (orientation : landscape) {
+
+/* Your styles here */
+
+}
+
+/* iPhone 5 in portrait */
+@media only screen and (min-width : 320px) and (max-width : 568px) and (orientation : portrait) {
+
+/* Your styles here */
+
+}
+
+/************************************************************************/
+/*
+** OLD IPHONES
+*/
+
+/* iPhone 2G-4S in portrait & landscape */
+@media only screen and (min-width : 320px) and (max-width : 480px) {
+
+/* Your styles here */
+
+}
+
+/* iPhone 2G-4S in landscape */
+@media only screen and (min-width : 320px) and (max-width : 480px) and (orientation : landscape) {
+
+/* Your styles here */
+
+}
+
+/* iPhone 2G-4S in portrait */
+@media only screen and (min-width : 320px) and (max-width : 480px) and (orientation : portrait) {
+
+/* Your styles here */
+
+}
+
+/***************************************************************************/
+/*
+** IPAD MINI
+*/
+
+/* iPad mini in portrait & landscape */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (-webkit-min-pixel-ratio: 1)  {
+
+/* Your styles here */
+
+}
+
+/* iPad mini in landscape */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : landscape) and (-webkit-min-pixel-ratio: 1)  {
+
+/* Your styles here */
+
+}
+
+/* iPad mini in portrait */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : portrait) and (-webkit-min-pixel-ratio: 1)  {
+
+/* Your styles here */
+
+}
+
+/***************************************************************************/
+/*
+** IPAD 3 & 4
+*/
+
+/* Retina iPad in portrait & landscape */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (-webkit-min-pixel-ratio: 2) {
+
+/* Your styles here */
+
+}
+
+/* Retina iPad in landscape */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : landscape) and (-webkit-min-pixel-ratio: 2) {
+
+/* Your styles here */
+
+}
+
+/* Retina iPad in portrait */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : portrait) and (-webkit-min-pixel-ratio: 2) {
+
+/* Your styles here */
+
+}
+
+/***************************************************************************/
+/*
+** IPAD 1 & 2
+*/
+
+/* iPad 1 & 2 in portrait & landscape */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (-webkit-min-pixel-ratio: 1){
+
+/* Your styles here */
+
+}
+
+/* iPad 1 & 2 in landscape */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : landscape) and (-webkit-min-pixel-ratio: 1)  {
+
+/* Your styles here */
+
+}
+
+/* iPad 1 & 2 in portrait */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : portrait) and (-webkit-min-pixel-ratio: 1) {
+
+/* Your styles here */
+
+}
+
+/***************************************************************************/
+/*
+** IPAD
+*/
+
+/* iPad in portrait & landscape */
+@media only screen and (min-width : 768px) and (max-width : 1024px)  {
+
+/* Your styles here */
+
+}
+
+/* iPad in landscape */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : landscape) {
+
+/* Your styles here */
+
+}
+
+/* iPad in portrait */
+@media only screen and (min-width : 768px) and (max-width : 1024px) and (orientation : portrait) {
+
+/* Your styles here */
+
+}
