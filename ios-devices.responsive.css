@@ -8,6 +8,49 @@
 ** ACTUAL IPHONES
 */
 
+/* iPhone 6+ in landscape */
+@media only screen 
+    and (min-device-width : 414px) 
+    and (max-device-width : 736px) 
+    and (orientation : landscape) 
+    and (-webkit-min-device-pixel-ratio : 3) {
+      
+      /* Your styles here */ 
+      
+    }
+
+/* iPhone 6+ in portrait */
+@media only screen 
+    and (min-device-width : 414px) 
+    and (max-device-width : 736px) 
+    and (orientation : portrait) 
+    and (-webkit-min-device-pixel-ratio : 3) {
+      
+      /* Your styles here */
+      
+    }
+
+/* iPhone 6 in landscape */
+@media only screen 
+    and (min-device-width : 375px) 
+    and (max-device-width : 667px) 
+    and (orientation : landscape) 
+    and (-webkit-min-device-pixel-ratio : 2) {
+      
+      /* Your styles here */
+      
+    }
+/* iPhone 6 in portrait  */
+@media only screen 
+    and (min-device-width : 375px) 
+    and (max-device-width : 667px) 
+    and (orientation : portrait) 
+    and (-webkit-min-device-pixel-ratio : 2) {
+
+      /* Your styles here */
+      
+    }
+
 /* iPhone 5 in portrait & landscape */
 @media only screen and(min-width : 320px) and (max-width : 568px) {
 
